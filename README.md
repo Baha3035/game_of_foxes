@@ -1,7 +1,5 @@
 # Game_of_foxes
 
-Fun variation of Conway's game of life
-
 **Game_of_foxes** is a simulation of foxes and rabbit's real life environment. Foxes eat rabbits and reproduce, rabbits eat grass and reproduce.
 
 ## Rules
