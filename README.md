@@ -22,10 +22,10 @@
 
 ## Demonstration
 
-**Starting map**
+### Starting map
 
 ![Game_of_life3StartPositions](https://user-images.githubusercontent.com/77735480/161756552-a04f932b-4308-4d44-9f1e-bb9bf8b303e0.png)
 
-**Rabbits won**
+### Rabbits won
 
 ![Game_of_life2](https://user-images.githubusercontent.com/77735480/161756596-9e99f938-cb9d-4eda-aef1-3b51601f9159.png)
