@@ -113,8 +113,5 @@ try:
 except:
     print("objects are not initialized")
 f = Field(c, 40, 40, 800, 800, fox, rabbit, grass)
-cntt = 0
 f.print_field()
-cntt += 1
-print(cntt)
 root.mainloop()
